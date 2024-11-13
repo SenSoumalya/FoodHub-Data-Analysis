@@ -1,7 +1,6 @@
 ![0000](https://github.com/SenSoumalya/FoodHub-Data-Analysis/blob/main/food.png)
 # FoodHub Data Analysis
-
-
+## Course: Statistical Methods for Decision Making
 ## Project Overview
 This project analyzes restaurant order data from FoodHub, a food aggregator service in New York. The analysis aims to understand customer preferences, restaurant performance, and delivery efficiency.
 
