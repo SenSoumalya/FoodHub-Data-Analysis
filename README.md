@@ -41,8 +41,6 @@ This project analyzes restaurant order data from FoodHub, a food aggregator serv
 - Increase offerings of American, Japanese, Italian, and Chinese cuisines.
 - Deploy more drivers and chefs on weekends to meet demand.
 
-## Course Information
-**Course**: Statistical Methods for Decision Making
 
 This project involved drawing inferences from the FoodHub analysis using various statistical methods. The following concepts were applied:
 
